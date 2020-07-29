@@ -3,6 +3,8 @@
 Educação a distância é uma modalidade de educação mediada por tecnologias em que discentes e docentes
 estão separados espacial e/ou temporalmente, ou seja, não estão fisicamente presentes em um ambiente presencial de ensino-aprendizagem.
 
+---
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
